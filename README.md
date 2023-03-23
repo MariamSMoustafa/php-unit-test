@@ -1,6 +1,6 @@
 <h1>Test Cases</h1>
-*FactorialTest
-*UserTest
+1. FactorialTest
+2. UserTest
 
 
 
