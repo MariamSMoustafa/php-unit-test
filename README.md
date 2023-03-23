@@ -3,7 +3,7 @@ FactorialTest
 UserTest
 
 <h1>Contributors</h1>
-<a href="[https://www.google.com/](https://github.com/MariamBakry)" target="_blank">Google</a>
+<a href="[[https://www.google.com/](https://github.com/MariamBakry)](https://github.com/MariamBakry)" target="_blank">Mariam El-Bakry</a>
 
 
 
